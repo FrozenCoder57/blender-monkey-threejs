@@ -1,6 +1,6 @@
 
 let conf = {
-  blenderFilePath: '/blender/'
+  blenderFilePath: './blender/'
 }
 
 
