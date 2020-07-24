@@ -1,0 +1,14 @@
+{
+  "servmapping": {
+    "/": "../public",
+    "/js": "../js",
+    "/threejs": "../threejs",
+    "/css": "../css",
+    "/blender": "../blender"
+  },
+  "defport": "8080",
+  "ssl": {
+    "key": "ssl/server.key",
+    "cert": "ssl/server.crt"
+  }
+}
